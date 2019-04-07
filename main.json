@@ -1,0 +1,22 @@
+{
+  "name": "Kundan Kumar Portfolio",
+  "authors": [
+    "Kundan Kumar"
+  ],
+  "description": "My Portfolio",
+  "main": "index.html",
+  "keywords": [
+    "Font",
+    "awesome",
+    "particle.js"
+  ],
+  "license": "MIT",
+  "homepage": "https://kundank78.github.io/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
